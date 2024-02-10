@@ -4,9 +4,9 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] JavaScript Coding Challenges with Jest
-- [ ] Interview Questions
-- [ ] Ruby Challenges with RSpec
+- [X] JavaScript Coding Challenges with Jest
+- [X] Interview Questions
+- [X] Ruby Challenges with RSpec
 
 ### ✋ Reminder
 
